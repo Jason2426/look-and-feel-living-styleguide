@@ -6,3 +6,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
 
+## Bronnen 
+
+https://www.masterclass.com/articles/how-to-create-a-style-guide
